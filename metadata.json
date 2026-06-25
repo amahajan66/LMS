@@ -1,0 +1,6 @@
+{
+  "name": "Lead Management Dashboard",
+  "description": "A high-fidelity Python-inspired lead tracking and database management dashboard with secure authentication and CRUD operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
